@@ -42,9 +42,9 @@
     <br> Currently I work on the following themes: <br>
   </h3>
   <h4>
-      - Web Development [Full-Stack/Back-end] 🌐 <br>
-      - Development of any kind of application. 📱 <br>
-      - Development of bots for websites and social networks 🤖 <br>
+      - Web Development [Full-Stack/Back-end <br>
+      - Development of any kind of application. <br>
+      - Development of bots for websites and social networks <br>
   </h4>
 </div>  
 
